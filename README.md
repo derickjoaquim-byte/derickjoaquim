@@ -22,7 +22,7 @@ Este espaço é meu portfólio digital, onde documento projetos, estudos e guias
 
 Aqui você pode encontrar alguns dos projetos que demonstram minhas competências em gestão e documentação.
 
-*   **[Guia de Otimização de Processos de Service Desk](https://github.com/derickjoaquim-byte/derickjoaquim)** - Um repositório com um guia prático para estruturar um Service Desk eficiente, baseado em minhas experiências.
+*   **[Guia de Otimização de Processos de Service Desk]([https://github.com/derickjoaquim-byte/derickjoaquim](https://github.com/derickjoaquim-byte/manual-diagnostico-hardware/blob/main/README.md))** - Um repositório com um guia prático para estruturar um Service Desk eficiente, baseado em minhas experiências.
 
 ---
 
